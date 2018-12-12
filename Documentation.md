@@ -147,7 +147,7 @@ Tap on **NEW** to add a new payment method.
 
 Fill the payment form with valid details and submit it.
 
-![alt text](https://raw.githubusercontent.com/hatboysoftware/wildlife-dominion-doc/master/Screen%20Shot%202018-12-12%20at%2010.22.38%20AM.png "image attachment")
+![alt text](https://raw.githubusercontent.com/hatboysoftware/wildlife-dominion-doc/master/pay_submit.png "image attachment")
 
 Go to Subscriptions on the homepage navigation.
 
